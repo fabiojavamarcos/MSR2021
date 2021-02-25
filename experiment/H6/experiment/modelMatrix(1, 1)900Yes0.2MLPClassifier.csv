@@ -1,0 +1,2 @@
+Accuracy,Acc-Score,zero_one_loss,AUC-PR,hamming loss average,Jaccard samples,Jaccard macro,Precision,Recall,Fmeasure
+0.0,0,1.0,0.31218670974511226,0.3028169014084507,0.11378269617706238,0.12837837837837837,0.2638888888888889,0.2,0.22754491017964074

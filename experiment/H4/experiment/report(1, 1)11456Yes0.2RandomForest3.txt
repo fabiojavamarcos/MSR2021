@@ -1,0 +1,2 @@
+tf-IDFMin, tf-IDFMax, #_TopTerms,Stop_Word,Train/Test_Size,Algorithm,Accuracy_Score,Accuracy_Score_not_normalized,zero_one_loss, AUC-PR,hamming_loss_avg,Jaccard_samples,Jaccard_macro,Precision,Recall,Fmeasure_Score, i
+(1, 1),11456,Yes,0.2,RandomForest,0.1267605633802817,18,0.8732394366197183,0.673675370618201,0.1813380281690141,0.46686507936507937,0.46632124352331605,0.6537530266343826,0.6192660550458715,0.6360424028268551,3

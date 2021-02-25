@@ -1,0 +1,86 @@
+ ------------------- Processing :  ['New Sorting/Export preferences']
+n grams PR:  1
+Features :  ['export', 'export preferences', 'new', 'new sorting', 'new sorting export', 'new sorting export preferences', 'preferences', 'sorting', 'sorting export', 'sorting export preferences']
+X1 :  [[1 1 1 1 1 1 1 1 1 1]]
+TFIDF PR:  1
+Scores :  [[0.31622777 0.31622777 0.31622777 0.31622777 0.31622777 0.31622777
+  0.31622777 0.31622777 0.31622777 0.31622777]]
+top ranking features PR:  1
+Words head :     pr                            term      rank
+0   1                          export  0.316228
+1   1              export preferences  0.316228
+2   1                             new  0.316228
+3   1                     new sorting  0.316228
+4   1              new sorting export  0.316228
+5   1  new sorting export preferences  0.316228
+6   1                     preferences  0.316228
+ ------------------- Processing :  ['I implemented 2 features requested Ticket # 841 .']
+n grams PR:  7
+Features :  ['841', 'features', 'features requested', 'features requested ticket', 'features requested ticket 841', 'implemented', 'implemented features', 'implemented features requested', 'implemented features requested ticket', 'requested', 'requested ticket', 'requested ticket 841', 'ticket', 'ticket 841']
+X1 :  [[1 1 1 1 1 1 1 1 1 1 1 1 1 1]]
+TFIDF PR:  7
+Scores :  [[0.26726124 0.26726124 0.26726124 0.26726124 0.26726124 0.26726124
+  0.26726124 0.26726124 0.26726124 0.26726124 0.26726124 0.26726124
+  0.26726124 0.26726124]]
+top ranking features PR:  7
+Words head :     pr                           term      rank
+0   7                            841  0.267261
+1   7                       features  0.267261
+2   7             features requested  0.267261
+3   7      features requested ticket  0.267261
+4   7  features requested ticket 841  0.267261
+5   7                    implemented  0.267261
+6   7           implemented features  0.267261
+ ------------------- Processing :  ['try fix obvious bugs groups']
+n grams PR:  10
+Features :  ['bugs', 'bugs groups', 'fix', 'fix obvious', 'fix obvious bugs', 'fix obvious bugs groups', 'groups', 'obvious', 'obvious bugs', 'obvious bugs groups', 'try', 'try fix', 'try fix obvious', 'try fix obvious bugs']
+X1 :  [[1 1 1 1 1 1 1 1 1 1 1 1 1 1]]
+TFIDF PR:  10
+Scores :  [[0.26726124 0.26726124 0.26726124 0.26726124 0.26726124 0.26726124
+  0.26726124 0.26726124 0.26726124 0.26726124 0.26726124 0.26726124
+  0.26726124 0.26726124]]
+top ranking features PR:  10
+Words head :     pr                     term      rank
+0  10                     bugs  0.267261
+1  10              bugs groups  0.267261
+2  10                      fix  0.267261
+3  10              fix obvious  0.267261
+4  10         fix obvious bugs  0.267261
+5  10  fix obvious bugs groups  0.267261
+6  10                   groups  0.267261
+ ------------------- Processing :  ['BugFix bug # 880 PubMed Import broken']
+n grams PR:  11
+Features :  ['880', '880 pubmed', '880 pubmed import', '880 pubmed import broken', 'broken', 'bug', 'bug 880', 'bug 880 pubmed', 'bug 880 pubmed import', 'bugfix', 'bugfix bug', 'bugfix bug 880', 'bugfix bug 880 pubmed', 'import', 'import broken', 'pubmed', 'pubmed import', 'pubmed import broken']
+X1 :  [[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]]
+TFIDF PR:  11
+Scores :  [[0.23570226 0.23570226 0.23570226 0.23570226 0.23570226 0.23570226
+  0.23570226 0.23570226 0.23570226 0.23570226 0.23570226 0.23570226
+  0.23570226 0.23570226 0.23570226 0.23570226 0.23570226 0.23570226]]
+top ranking features PR:  11
+Words head :      pr                   term      rank
+0   11                    880  0.235702
+1   11             880 pubmed  0.235702
+16  11          pubmed import  0.235702
+15  11                 pubmed  0.235702
+14  11          import broken  0.235702
+13  11                 import  0.235702
+12  11  bugfix bug 880 pubmed  0.235702
+ ------------------- Processing :  ['Make ( un ) abbreviating journal titles also work journaltitle field']
+n grams PR:  15
+Features :  ['abbreviating', 'abbreviating journal', 'abbreviating journal titles', 'abbreviating journal titles also', 'also', 'also work', 'also work journaltitle', 'also work journaltitle field', 'field', 'journal', 'journal titles', 'journal titles also', 'journal titles also work', 'journaltitle', 'journaltitle field', 'make', 'make un', 'make un abbreviating', 'make un abbreviating journal', 'titles', 'titles also', 'titles also work', 'titles also work journaltitle', 'un', 'un abbreviating', 'un abbreviating journal', 'un abbreviating journal titles', 'work', 'work journaltitle', 'work journaltitle field']
+X1 :  [[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]]
+TFIDF PR:  15
+Scores :  [[0.18257419 0.18257419 0.18257419 0.18257419 0.18257419 0.18257419
+  0.18257419 0.18257419 0.18257419 0.18257419 0.18257419 0.18257419
+  0.18257419 0.18257419 0.18257419 0.18257419 0.18257419 0.18257419
+  0.18257419 0.18257419 0.18257419 0.18257419 0.18257419 0.18257419
+  0.18257419 0.18257419 0.18257419 0.18257419 0.18257419 0.18257419]]
+top ranking features PR:  15
+Words head :      pr                            term      rank
+0   15                    abbreviating  0.182574
+1   15            abbreviating journal  0.182574
+28  15               work journaltitle  0.182574
+27  15                            work  0.182574
+26  15  un abbreviating journal titles  0.182574
+25  15         un abbreviating journal  0.182574
+24  15                 un abbreviating  0.182574

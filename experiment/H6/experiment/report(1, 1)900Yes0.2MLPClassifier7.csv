@@ -1,0 +1,2 @@
+"tf-IDFMin, tf-IDFMax, #_TopTerms,Stop_Word,Train/Test_Size,Algorithm,Accuracy_Score,Accuracy_Score_not_normalized,zero_one_loss, AUC-PR,hamming_loss_avg,Jaccard_samples,Jaccard_macro,Precision,Recall,Fmeasure_Score, i"
+"(1, 1),900,Yes,0.2,MLPClassifier,0.007042253521126761,1,0.9929577464788732,0.5875760661513314,0.22593896713615025,0.432092555331992,0.4371345029239766,0.5254833040421792,0.7222222222222222,0.6083418107833163,7"
